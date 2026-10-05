@@ -82,15 +82,6 @@ Hexapod robot using **YOLOv8** on a custom thermal image dataset to detect peopl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunnsunil&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunnsunil&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for **entry-level Data Analyst opportunities**. If you have a role, a project, or just want to talk data, reach out:
