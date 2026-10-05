@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arjun C S 👋</h1>
 
 <p align="center">
-  <b>Data Analyst</b> · AI & Data Science Graduate · Kerala, India<br>
+  <b> Entry-Level Data Analyst</b> · AI & Data Science Graduate · Kerala, India<br>
   I turn raw data into clear stories, dashboards, and decisions.
 </p>
 
