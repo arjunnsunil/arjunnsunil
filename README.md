@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arjun C S 👋</h1>
 
 <p align="center">
-  <b> Entry-Level Data Analyst</b> · AI & Data Science Graduate · Kerala, India<br>
+  <b>Entry-Level Data Analyst</b> · Python, SQL, Power BI · AI & Data Science Graduate<br>
   I turn raw data into clear stories, dashboards, and decisions.
 </p>
 
@@ -15,7 +15,7 @@
 ## 🧭 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** (2025), Jyothi Engineering College
-- 💼 Former **Data Analytics Intern** at Coding Ninjas (Jun – Dec 2025): data cleaning, EDA, feature engineering, predictive models, and Power BI dashboards
+- 💼 Completed a 6-month **Data Analytics Training & Internship Programme** (Coding Ninjas × E&ICT Academy, IIT Guwahati, Jun – Dec 2025): data cleaning, EDA, feature engineering, predictive models, and Power BI dashboards
 - 📊 I enjoy the full analytics workflow: raw data → clean dataset → insight → dashboard
 - 🤖 Exploring how **Generative AI** can make analytics faster and more accessible
 - 🎯 **Open to entry-level Data Analyst roles**
